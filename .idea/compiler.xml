@@ -11,8 +11,8 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="gameofthrones" target="1.5" />
-      <module name="traffic" target="1.5" />
+      <module name="gameofthrones" target="11" />
+      <module name="traffic" target="11" />
     </bytecodeTargetLevel>
   </component>
 </project>
